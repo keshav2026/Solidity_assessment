@@ -13,8 +13,8 @@ and from the balance of the “sender”.
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/. Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., SolidityAssessment.sol). Copy and paste the following code into the file:
 ```javascript
-// SPDX-License-Identifier: UNLICENSED
-pragma solidity 0.8.18;
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.4;
 
 /*
        REQUIREMENTS
@@ -59,7 +59,7 @@ contract KeshavCoin {
 ```
 ## INSTRUCTIONS TO RUN THE PROGRAM
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile SolidityAssessment.sol" button.
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile SolidityAssessment.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "KeshavCoin-SolidityAssessment.sol" contract from the dropdown menu, and then click on the "Deploy" button.
 
